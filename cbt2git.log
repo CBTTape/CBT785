@@ -1,0 +1,8 @@
+2023-08-06 07:33:15.824809 - Initialized conversion of CBT785
+2023-08-06 07:33:15.870615 - Received CBT.V505.FILE785.PDS from FILE785.XMI 
+2023-08-06 07:33:15.872724 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:33:15.873659 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:33:15.874648 - Found #SUBCMAC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/#SUBCMAC
+2023-08-06 07:33:15.875740 - Found @FILE785.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/@FILE785
+2023-08-06 07:33:15.876611 - Found SUBC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/SUBC
+2023-08-06 07:33:15.877607 - Found SUBCC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/SUBCC
