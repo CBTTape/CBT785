@@ -1,0 +1,7 @@
+2025-04-13 22:49:37.759130 - Received CBT.V505.FILE785.PDS from FILE785.XMI 
+2025-04-13 22:49:37.760203 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:49:37.760314 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/$$NOTE1
+2025-04-13 22:49:37.760422 - Found #SUBCMAC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/#SUBCMAC
+2025-04-13 22:49:37.760523 - Found @FILE785.txt (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/@FILE785
+2025-04-13 22:49:37.760629 - Found SUBC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/SUBC
+2025-04-13 22:49:37.760729 - Found SUBCC.rexx (text/plain) in CBT.V505.FILE785.PDS, moved to PDS/SUBCC
